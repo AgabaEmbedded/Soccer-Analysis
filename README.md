@@ -40,6 +40,13 @@ Video ─▶ Pass 1: Detection, Tracking & Evidence Collection
 
 
 ---
+## Demo Before and After Video
+
+`"Befor"`: **[SNMOT-066.mp4 →](https://drive.google.com/file/d/1ZHZVy-bEXTZiV5JtFMaRMpegNw051bhO/view?usp=drive_link)**
+
+`"After"`: **[SNMOT-066-Analyzed.mp4 →](https://drive.google.com/file/d/1O2LdlM1BMon9Kig5TanoygTRV3BZ1_Fk/view?usp=drive_link)**
+
+---
 
 ## Accessing the Notebook
 
