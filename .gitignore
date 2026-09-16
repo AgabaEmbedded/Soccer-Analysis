@@ -1,0 +1,12 @@
+Analysis Result/
+Dataset/
+senv/
+prepared_dataset.zip
+*.png
+*.jpg
+*.mp4
+*.docx
+*.zip
+*.jpeg
+~$*.docx
+.ipynb_checkpoints/

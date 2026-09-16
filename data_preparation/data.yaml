@@ -1,0 +1,11 @@
+train: ./dataset/train
+test: ./dataset/test
+val: ./dataset/val
+
+nc: 4
+
+names:
+  0: ball
+  1: goalkeeper
+  2: player
+  3: referee

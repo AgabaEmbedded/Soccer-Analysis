@@ -1,0 +1,5 @@
+SoccerNet
+roboflow
+ultralytics
+dagshub
+mlflow
