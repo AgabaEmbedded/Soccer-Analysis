@@ -8,12 +8,7 @@ import configparser
 
 
 def extract_zip(zip_path, extract_to):
-    """
-    Extracts a ZIP file to the specified directory.
-
-    :param zip_path: Path to the .zip file
-    :param extract_to: Directory where files will be extracted
-    """
+    
     try:
         # Validate that the file exists
         if not os.path.isfile(zip_path):
